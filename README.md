@@ -15,4 +15,4 @@ fully responsive utilizing Flexbox and
 * HTML
 * CSS
 * FLEXBOX
-* @MEDIA QUEIRES
+* @MEDIA QUERIES
